@@ -2,8 +2,8 @@
 
 Step|How was the story|Change in Html|Change in css| branch|
 ----|----------------|---------------|-------------|------|
-Create repo|  | | ||
-Add Licence| | | |[Licence branch](https://github.com/Feruzteame/Acem-web-design/tree/add-license-1)
+Create repo|create puplic repo  | | ||
+Add Licence| MTN licence| | |[Licence branch](https://github.com/Feruzteame/Acem-web-design/tree/add-license-1)
 Clone the repo| | | ||
 Developmental-strategy|plan how will be my work step by step| | | [Developmental-strategy branch](https://github.com/Feruzteame/Acem-web-design/tree/develomental-strategy)
 Watch the video|Watch and Take a note|   |  |
