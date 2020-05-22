@@ -27,7 +27,7 @@ header a{ color: white;
 header li{ display: inline;
          padding: 0 20px 0 20px; }
 header #branding{float: left;}
-header #branding h1 {margin: 0px;}
+header #branding h2 {margin: 0px;}
 header nav{float: right;
          margin-top: 15px;}
 header #highlight, header #current a{color: darkgoldenrod;
